@@ -1,1 +1,5 @@
 logs.print()
+
+log
+
+logs
