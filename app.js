@@ -1,5 +1,3 @@
 logs.print()
 
-log
-
-logs
+logs.print(1)
